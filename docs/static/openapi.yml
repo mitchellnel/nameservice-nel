@@ -51554,6 +51554,8 @@ definitions:
       the connection handshake.
   nameservicenel.nameservice.MsgBuyNameResponse:
     type: object
+  nameservicenel.nameservice.MsgSetNameResponse:
+    type: object
   nameservicenel.nameservice.Params:
     type: object
     description: Params defines the parameters for the module.
